@@ -47,3 +47,21 @@ body{
 .escola-titulo{
     padding: 24px 0;
 }
+
+.estudante-imagem{
+    width: 500px;
+}
+
+.estudantes-div{
+    text-align: center;
+}
+
+.estudante-titulo{
+    text-align: center;
+    padding: 50px 0;
+    color: #02681f;
+}
+
+.estudante{
+    background-color: #F5F5F5;
+}
