@@ -65,3 +65,29 @@ body{
 .estudante{
     background-color: #F5F5F5;
 }
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.profile {
+    display: flex;
+    align-items: center;
+}
+
+.bio {
+    margin-left: 20px;
+}
+
+.bio h1 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.bio p {
+    font-size: 16px;
+    line-height: 1.5;
+}
