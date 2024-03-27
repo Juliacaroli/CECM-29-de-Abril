@@ -91,3 +91,13 @@ body{
     font-size: 16px;
     line-height: 1.5;
 }
+
+.rodape{
+    background-color: #02681f;
+    text-align: center;
+}
+
+.rodape-imagem{
+    height: 50px;
+    padding: 6px 0;
+}
